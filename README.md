@@ -28,22 +28,22 @@ Two main types of blocks are used in a ResNet, depending mainly on whether the i
 
 ##  Identity block
 
-</br>
+
 ![Identity block](Identity block.PNG)
 
 ## Convolution block
 
-</br>
+
 ![Convolution block](Convolution block.PNG)
 
 ## The 50 layer Residual Network
 
-</br>
+
 ![Res Net 50](resnet50.PNG)
 
 ## Summary
 
-</br>
+
 ![summary](summary.PNG)
 </br>
 
